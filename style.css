@@ -1,0 +1,28 @@
+.test_image_and_result
+{
+    background-color: grey;
+    color: white;
+    border-radius: 35px;
+    padding: 50px;
+}
+
+h5
+{
+    background-color: white;
+    color: black;
+    font-size: large;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: left;
+}
+
+span
+{
+    color: red;
+}
+
+ol
+{
+    background-color: white;
+    font-size: 200%;
+}
